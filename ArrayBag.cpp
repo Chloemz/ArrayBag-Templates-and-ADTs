@@ -1,7 +1,4 @@
 /** @author: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi235-01
-Project 2
 Array Bag: Implements arraybag functions using Templates and ADTs 
 */
 
@@ -11,7 +8,7 @@ Array Bag: Implements arraybag functions using Templates and ADTs
 #include <iostream>
 #include <vector>
 
-/** Obviously a default constructor*/
+/**default constructor*/
 template<class ItemType>
 ArrayBag<ItemType>::ArrayBag() //can also do ArrayBag():item_count_(0)
 {
