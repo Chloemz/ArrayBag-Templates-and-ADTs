@@ -1,4 +1,4 @@
-/** @author: Chloe Zambrano
+/** @author: Chloe Marie
 Array Bag: Implements arraybag functions using Templates and ADTs 
 */
 
